@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/teachable-machine-image-model/static/js/main.2510128a.js",
+    "index.html": "/teachable-machine-image-model/index.html",
+    "main.2510128a.js.map": "/teachable-machine-image-model/static/js/main.2510128a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2510128a.js"
+  ]
+}
